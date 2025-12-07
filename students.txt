@@ -1,0 +1,12 @@
+Ivanov 10A 0 1 4.5
+Petrov 10B 1 2 3.8
+Sidorov 11A 2 0 4.9
+Smirnov 9A 3 3 2.5
+Kuznetsov 10A 0 1 4.2
+Popov 11B 1 1 4.0
+Vasiliev 9B 2 2 3.5
+Sokolov 10A 3 0 5.0
+Mikhailov 11A 0 1 4.4
+Fedorov 9A 1 2 3.2
+Morozov 10B 2 1 4.1
+Volkov 11B 3 3 2.8
